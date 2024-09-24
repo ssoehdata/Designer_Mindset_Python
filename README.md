@@ -1,2 +1,3 @@
 ### Designer_Mindset
-Software Designer Mindset Course
+Notes and excercises from the
+Software Designer Mindset Course using Python
